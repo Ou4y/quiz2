@@ -1,3 +1,3 @@
-int main(){
+int ){
     master b2
 }
